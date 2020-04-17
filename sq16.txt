@@ -1,0 +1,1 @@
+Gutter servers account for 1% of the memcache servers and are used in the event of failure of other memcache servers. Why not just use the gutter servers as normal servers in the first place? In the current setup, aren't gutter servers underutilized most of the time.
